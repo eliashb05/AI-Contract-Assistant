@@ -19,7 +19,7 @@ El asistente es capaz de analizar contratos subidos por el usuario y responder p
 
 ## ⚙️ ¿Cómo funciona?
 
-1. El usuario sube uno o varios contratos
+1. El usuario sube uno o varios contratos en la base de datos de Pinecone
 2. El sistema procesa automáticamente los documentos
 3. El usuario realiza preguntas por voz o chat
 4. La IA analiza el contenido y devuelve la respuesta correspondiente
@@ -29,16 +29,16 @@ El asistente es capaz de analizar contratos subidos por el usuario y responder p
 ## 🛠️ Tecnologías utilizadas
 
 - n8n
-- OpenAI API
-- Procesamiento de voz
-- Automatización de flujos
-- Procesamiento de documentos
-
+- Gemini API
+- ElevenLabs
+- Pinecone
+- Cloudfare
 ---
 
 ## 📸 Demo
+<img width="1418" height="857" alt="image" src="https://github.com/user-attachments/assets/89768b4f-3dc7-4909-ad00-de119066bc76" />
+<img width="911" height="666" alt="asistenteimagen" src="https://github.com/user-attachments/assets/732eb411-80e9-408a-9966-533cb079230d" />
 
-Aquí puedes añadir capturas o vídeos del funcionamiento del sistema.
 
 ---
 
