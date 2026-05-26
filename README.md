@@ -36,16 +36,37 @@ El asistente es capaz de analizar contratos subidos por el usuario y responder p
 ---
 
 ## 📸 Demo
-Aqui tendriamos como nos deja escoger entre usarlo por voz o por texto.
-<img width="1418" height="857" alt="image" src="https://github.com/user-attachments/assets/89768b4f-3dc7-4909-ad00-de119066bc76" />
-Y aqui seria una prueba de su funcionamiento por texto
-<img width="911" height="666" alt="asistenteimagen" src="https://github.com/user-attachments/assets/732eb411-80e9-408a-9966-533cb079230d" />
-Y como podemos comprobar la informacion la extrae perfectamente y en cuestion de unos segundos (en este caso lo he usado con contratos de arrendamiento pero se podria modificar y usar para cualquier otro tipo de documentos)
-<img width="627" height="423" alt="image" src="https://github.com/user-attachments/assets/42419999-91df-4cf6-80c8-086f23bf3b4f" />
+l sistema permite escoger entre interacción por voz o mediante chat.
+
+<p align="center">
+  <img src="TU_IMAGEN_1" width="800"/>
+</p>
+
+---
+
+### Consulta de contratos mediante texto
+
+Ejemplo de consulta realizada a través del chat del asistente.
+
+<p align="center">
+  <img src="TU_IMAGEN_2" width="800"/>
+</p>
+
+---
+
+### Extracción automática de información
+
+La IA es capaz de localizar y extraer información relevante del contrato en cuestión de segundos.
+
+En este ejemplo se ha utilizado un contrato de arrendamiento.
+
+<p align="center">
+  <img src="TU_IMAGEN_3" width="700"/>
+</p>
 
 
 ---
 
 ## 🎯 Objetivo del proyecto
 
-Facilitar la consulta y análisis de contratos mediante lenguaje natural, reduciendo el tiempo necesario para localizar información importante dentro de documentos legales.
+Facilitar la consulta y análisis de documentos mediante lenguaje natural, reduciendo el tiempo necesario para localizar información importante dentro de documentos legales.
