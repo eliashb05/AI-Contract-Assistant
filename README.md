@@ -36,10 +36,10 @@ El asistente es capaz de analizar contratos subidos por el usuario y responder p
 ---
 
 ## 📸 Demo
-l sistema permite escoger entre interacción por voz o mediante chat.
+El sistema permite escoger entre interacción por voz o mediante chat.
 
 <p align="center">
-  <img src="TU_IMAGEN_1" width="800"/>
+  <img src="https://github.com/user-attachments/assets/89768b4f-3dc7-4909-ad00-de119066bc76" width="800"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@ l sistema permite escoger entre interacción por voz o mediante chat.
 Ejemplo de consulta realizada a través del chat del asistente.
 
 <p align="center">
-  <img src="TU_IMAGEN_2" width="800"/>
+  <img src="https://github.com/user-attachments/assets/732eb411-80e9-408a-9966-533cb079230d" width="800"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ La IA es capaz de localizar y extraer información relevante del contrato en cue
 En este ejemplo se ha utilizado un contrato de arrendamiento.
 
 <p align="center">
-  <img src="TU_IMAGEN_3" width="700"/>
+  <img src="https://github.com/user-attachments/assets/42419999-91df-4cf6-80c8-086f23bf3b4f" width="700"/>
 </p>
 
 
