@@ -1,7 +1,8 @@
 <img width="1000" height="500" alt="Gemini_Generated_Image_8zelsy8zelsy8zel" src="https://github.com/user-attachments/assets/28a0df26-bdbb-454a-89ba-afe4f5424cb1" />
+
 # Asistente de Contratos con IA
 
-Sistema de consulta inteligente de contratos mediante IA, permitiendo interactuar con documentos a través de chat o voz.
+Sistema de consulta inteligente de contratos basado en IA, permitiendo interactuar con documentos a través de chat o voz.
 
 El asistente es capaz de analizar contratos subidos por el usuario y responder preguntas en tiempo real sobre cláusulas, fechas, condiciones o cualquier información relevante del documento.
 
