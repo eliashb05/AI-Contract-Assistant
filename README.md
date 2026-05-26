@@ -1,4 +1,4 @@
-<img width="820" height="500" alt="Gemini_Generated_Image_8zelsy8zelsy8zel" src="https://github.com/user-attachments/assets/28a0df26-bdbb-454a-89ba-afe4f5424cb1" />
+<img width="900" height="500" alt="Gemini_Generated_Image_8zelsy8zelsy8zel" src="https://github.com/user-attachments/assets/28a0df26-bdbb-454a-89ba-afe4f5424cb1" />
 # Asistente de Contratos con IA
 
 Sistema de consulta inteligente de contratos mediante IA, permitiendo interactuar con documentos a través de chat o voz.
